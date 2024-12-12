@@ -1,8 +1,8 @@
 # Project: adams
-# Date: 2024-12-06 13:11:29
+# Date: 2024-12-13 12:13:28
 # User: fracpete
 # Charset: UTF-8
-# Modules: adams-annotator,adams-audio,adams-compress,adams-core,adams-docker,adams-event,adams-excel,adams-ffmpeg,adams-git,adams-groovy,adams-imaging,adams-imaging-boofcv,adams-imaging-ext,adams-jep,adams-json,adams-math,adams-meta,adams-ml,adams-net,adams-odf,adams-opencv,adams-pdf,adams-pyro4,adams-python,adams-random,adams-rats-core,adams-redis,adams-spreadsheet,adams-terminal,adams-video,adams-visualstats,adams-weka,adams-xml,adams-yaml
+# Modules: adams-core,adams-git
 #
 adams.flow.control.Flow -flow-execution-listener adams.flow.execution.NullListener -flow-restart-manager adams.flow.control.flowrestart.NullManager
  adams.flow.source.Start
